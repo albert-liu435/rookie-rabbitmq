@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /**
  * @ClassName ProducerProcessing
  * @Description ProducerProcessing
- * @Author liuxili
+ * @Author
  * @Date 2020/1/16 15:22
  * @Version 1.0
  */

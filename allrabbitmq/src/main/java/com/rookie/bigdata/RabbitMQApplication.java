@@ -7,7 +7,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 /**
  * @ClassName RabbitMQApplication
  * @Description RabbitMQApplication
- * @Author liuxili
+ * @Author
  * @Date 2020/1/16 14:22
  * @Version 1.0
  */

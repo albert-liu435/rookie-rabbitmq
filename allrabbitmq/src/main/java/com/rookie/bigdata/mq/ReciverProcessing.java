@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @ClassName ReciverProcessing
  * @Description ReciverProcessing
- * @Author liuxili
+ * @Author
  * @Date 2020/1/16 14:25
  * @Version 1.0
  */

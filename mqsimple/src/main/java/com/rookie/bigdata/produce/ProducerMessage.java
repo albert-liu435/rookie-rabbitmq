@@ -7,7 +7,7 @@ import com.rookie.bigdata.until.ConnectionUtil;
 /**
  * @ClassName ProducerMessage
  * @Description ProducerMessage
- * @Author liuxili
+ * @Author
  * @Date 2020/1/6 18:36
  * @Version 1.0
  */

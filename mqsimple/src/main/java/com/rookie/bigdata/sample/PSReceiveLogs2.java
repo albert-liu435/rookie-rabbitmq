@@ -8,7 +8,7 @@ import com.rookie.bigdata.until.ConnectionUtil;
 /**
  * @ClassName PSReceiveLogs
  * @Description PSReceiveLogs
- * @Author liuxili
+ * @Author
  * @Date 2020/1/15 16:07
  * @Version 1.0
  */

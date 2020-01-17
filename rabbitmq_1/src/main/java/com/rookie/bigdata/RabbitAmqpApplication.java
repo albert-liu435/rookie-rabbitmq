@@ -9,7 +9,7 @@
 ///**
 // * @ClassName RabbitAmqpApplication
 // * @Description RabbitAmqpApplication
-// * @Author liuxili
+// * @Author
 // * @Date 2020/1/15 17:13
 // * @Version 1.0
 // */

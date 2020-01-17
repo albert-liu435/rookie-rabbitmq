@@ -7,7 +7,7 @@ import com.rookie.bigdata.until.ConnectionUtil;
 /**
  * @ClassName TopicEmitLog
  * @Description TopicEmitLog
- * @Author liuxili
+ * @Author
  * @Date 2020/1/16 10:39
  * @Version 1.0
  */

@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 /**
  * @ClassName Tut1Sender
  * @Description Tut1Sender
- * @Author liuxili
+ * @Author
  * @Date 2020/1/15 17:23
  * @Version 1.0
  */

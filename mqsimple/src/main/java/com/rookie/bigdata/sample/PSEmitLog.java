@@ -7,7 +7,7 @@ import com.rookie.bigdata.until.ConnectionUtil;
 /**
  * @ClassName PSEmitLog
  * @Description PSEmitLog
- * @Author liuxili
+ * @Author
  * @Date 2020/1/15 16:03
  * @Version 1.0
  */

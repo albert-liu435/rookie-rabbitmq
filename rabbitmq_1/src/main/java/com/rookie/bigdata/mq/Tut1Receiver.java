@@ -6,7 +6,7 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener;
 /**
  * @ClassName Tut1Receiver
  * @Description Tut1Receiver
- * @Author liuxili
+ * @Author
  * @Date 2020/1/15 17:22
  * @Version 1.0
  */

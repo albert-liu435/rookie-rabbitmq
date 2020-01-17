@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @ClassName Tut2Config
  * @Description Tut2Config
- * @Author liuxili
+ * @Author
  * @Date 2020/1/16 11:42
  * @Version 1.0
  */

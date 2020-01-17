@@ -7,7 +7,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 /**
  * @ClassName RabbitAmqpTutorialsApplication
  * @Description RabbitAmqpTutorialsApplication
- * @Author liuxili
+ * @Author
  * @Date 2020/1/15 17:25
  * @Version 1.0
  */

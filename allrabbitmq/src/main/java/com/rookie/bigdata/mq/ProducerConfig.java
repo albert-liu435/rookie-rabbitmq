@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @ClassName ProducerProcessing
  * @Description ProducerProcessing
- * @Author liuxili
+ * @Author
  * @Date 2020/1/16 14:37
  * @Version 1.0
  */

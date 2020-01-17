@@ -9,7 +9,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * @ClassName ConnectionUtil
  * @Description ConnectionUtil
- * @Author liuxili
+ * @Author
  * @Date 2020/1/6 18:29
  * @Version 1.0
  */

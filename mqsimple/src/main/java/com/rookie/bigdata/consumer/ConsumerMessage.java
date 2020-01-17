@@ -9,7 +9,7 @@ import com.rookie.bigdata.until.ConnectionUtil;
 /**
  * @ClassName ConsumerMessage
  * @Description ConsumerMessage
- * @Author liuxili
+ * @Author
  * @Date 2020/1/6 18:48
  * @Version 1.0
  */

@@ -7,7 +7,7 @@ import org.springframework.util.StopWatch;
 /**
  * @ClassName Tut2Receiver
  * @Description Tut2Receiver
- * @Author liuxili
+ * @Author
  * @Date 2020/1/16 11:45
  * @Version 1.0
  */

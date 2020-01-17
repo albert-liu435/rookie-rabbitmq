@@ -8,7 +8,7 @@
 ///**
 // * @ClassName RabbitAmqpTutorialsRunner
 // * @Description RabbitAmqpTutorialsRunner
-// * @Author liuxili
+// * @Author
 // * @Date 2020/1/15 17:26
 // * @Version 1.0
 // */

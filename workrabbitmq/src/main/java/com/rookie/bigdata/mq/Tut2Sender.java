@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * @ClassName Tut2Sender
  * @Description Tut2Sender
- * @Author liuxili
+ * @Author
  * @Date 2020/1/16 11:45
  * @Version 1.0
  */

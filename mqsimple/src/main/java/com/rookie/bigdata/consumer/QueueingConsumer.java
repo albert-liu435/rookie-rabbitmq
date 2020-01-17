@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * @ClassName QueueingConsumer
  * @Description QueueingConsumer
- * @Author liuxili
+ * @Author
  * @Date 2020/1/6 19:09
  * @Version 1.0
  */
