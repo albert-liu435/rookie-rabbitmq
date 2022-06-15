@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.rookie.bigdata</groupId>
-    <artifactId>springmq</artifactId>
+    <artifactId>rookie-rabbitmq</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
