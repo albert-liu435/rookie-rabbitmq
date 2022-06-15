@@ -6,14 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="workrabbitmq" />
         <module name="allrabbitmq" />
+        <module name="rabbitmq_1" />
+        <module name="publishrabbitmq" />
         <module name="directrabbitmq" />
         <module name="mqsimple" />
-        <module name="publishrabbitmq" />
-        <module name="rabbitmq_1" />
-        <module name="workrabbitmq" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="allrabbitmq" target="1.8" />
+      <module name="directrabbitmq" target="1.8" />
+      <module name="mqsimple" target="1.8" />
+      <module name="publishrabbitmq" target="1.8" />
+      <module name="rabbitmq_1" target="1.8" />
+      <module name="rookie-rabbitmq" target="1.8" />
+      <module name="workrabbitmq" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
